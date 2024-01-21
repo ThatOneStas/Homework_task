@@ -13,6 +13,10 @@ void multiply() {
     cout << "multiply" << endl;
 }
 
+void divide() {
+    cout << "divide" << endl;
+}
+
 int main()
 {
     
