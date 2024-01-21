@@ -8,6 +8,11 @@ void plus() {
 void minus() {
     cout << "minus" << endl;
 }
+
+void multiply() {
+    cout << "multiply" << endl;
+}
+
 int main()
 {
     
