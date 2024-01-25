@@ -19,5 +19,8 @@ void divide() {
 
 int main()
 {
-    
+    plus();
+    minus();
+    multiply();
+    divide();
 }
